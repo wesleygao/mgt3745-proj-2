@@ -3,9 +3,11 @@ The goal of this project is to simulate a plausible data science workflow.
 
 # Topics
 The project covers the following topics: 
+- Data Preparation
 - Data Cleaning
-- Data Exploration (through the use of seaborn plots)
+- Data Visualization/Exploration (through the use of seaborn plots)
 - Data Transformation
+- Data Wrangling/Structuring Data
 - Feature Engineering
 - Feature Selection & Feature Importance
 - Modeling (Machine Learning - scikit-learn)
